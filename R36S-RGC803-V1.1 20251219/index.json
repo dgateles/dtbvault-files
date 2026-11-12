@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-evb-lp3-v12-linux.dtb",
+    "type": "dtb",
+    "sha256": "9008da231ceedb666d841617af99a90403a1eec5975c152232f7c4dfa4c65bc6",
+    "console": "R36S",
+    "boardRevision": "RGC803-V1.1 20251219",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "2GB",
+    "panelType": null,
+    "sourceSystem": "Emuelec",
+    "origin": "Arquivo zip",
+    "slug": "rk3326-evb-lp3-v12-linux-yukskxgA"
+  }
+]

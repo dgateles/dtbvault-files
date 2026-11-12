@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rf3700kg3sa_boe.dtb",
+    "type": "dtb",
+    "sha256": "6914eb2b39747b467b8ff8ef2ad3c3792b064ebd76ed77813ea8193a8d59fb5b",
+    "console": "RX6H",
+    "boardRevision": "-",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "Emuelec",
+    "origin": "Original SD",
+    "slug": "rf3700kg3sa-boe-TQYGa1eI"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rf3536k3ka.dtb",
+    "type": "dtb",
+    "sha256": "9c8af2c7e229f02135e1c3c17cff58e07c604e567d1d6ddd3725a9211e0ac48a",
+    "console": "R36S",
+    "boardRevision": "G80CA-MB V1.2-20250422",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "EmuElec",
+    "origin": "Original SD",
+    "slug": "rk3326-evb-lp3-v12-linux-23-Q5R_9"
+  }
+]

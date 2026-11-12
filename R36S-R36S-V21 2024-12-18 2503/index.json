@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-rg351mp-linux.dtb",
+    "type": "dtb",
+    "sha256": "b7aa15beb3ef16d768bd37642e8929ce8893d5bc89abb3847dee288022d4f8ce",
+    "console": "R36S",
+    "boardRevision": "R36S-V21 2024-12-18 2503",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": "4",
+    "sourceSystem": "Stock ArkOS",
+    "origin": "Original SD",
+    "slug": "rk3326-rg351mp-linux-M6C-lMcY"
+  }
+]

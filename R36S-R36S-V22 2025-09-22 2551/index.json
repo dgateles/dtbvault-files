@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-r35s-linux.dtb",
+    "type": "dtb",
+    "sha256": "ac546dd7ca90c53c2d6111449b9624fc0d875fbe8b1eeead8a9e25c538b1cd98",
+    "console": "R36S",
+    "boardRevision": "R36S-V22 2025-09-22 2551",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1Gb",
+    "panelType": "Panel 4",
+    "sourceSystem": "ArkOS",
+    "origin": "Stock SD",
+    "slug": "rk3326-r35s-linux-cp5LW4LN"
+  }
+]

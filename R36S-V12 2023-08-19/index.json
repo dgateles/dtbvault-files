@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-rg351mp-linux.dtb",
+    "type": "dtb",
+    "sha256": "f3d9ed251cf9e1ece85a5a9286ce2f1c4821c81e76e4f5d054ab6192472e3b08",
+    "console": "R36S",
+    "boardRevision": "V12 2023-08-19",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1Gb",
+    "panelType": "4",
+    "sourceSystem": "R36S",
+    "origin": "Stock SD",
+    "slug": "rk3326-rg351mp-linux-W1WMHWPL"
+  }
+]

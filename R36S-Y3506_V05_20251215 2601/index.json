@@ -1,0 +1,30 @@
+[
+  {
+    "file": "rk3326-r36s-linux.dtb",
+    "type": "dtb",
+    "sha256": "f920b73279e1b29047fe1e169ab8a04838493ae4b87a335c8ea6a0606dc19d6d",
+    "console": "R36S",
+    "boardRevision": "Y3506_V05_20251215 2601",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": "Unknow",
+    "sourceSystem": "ArkOS",
+    "origin": "dArkOSRE Github",
+    "slug": "rk3326-r36s-linux-lwPlMknY"
+  },
+  {
+    "file": "rg351mp-kernel.dtb",
+    "type": "dtb",
+    "sha256": "3eb075230cdeaf4504a31df902a73e0e85d115bf2a9b3b390990fa7f3860230a",
+    "console": "R36S",
+    "boardRevision": "Y3506_V05_20251215 2601",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS 2.0 (08232024)(AeUX)",
+    "origin": "Original SD",
+    "slug": "rg351mp-kernel-UjMQO0nP"
+  }
+]

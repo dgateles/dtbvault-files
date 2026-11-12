@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rf3536k3ka.dtb",
+    "type": "dtb",
+    "sha256": "eec8c4a043e7933392c337766d6f76e357cf8e545869802d955c90f0682ff32d",
+    "console": "R36S",
+    "boardRevision": "V20 2025-05-18 2551",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": "Unknow",
+    "sourceSystem": "ArkOS",
+    "origin": "Original SD",
+    "slug": "rf3536k3ka-_D6WP40J"
+  }
+]
