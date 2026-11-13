@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-r35s-linux.dtb",
+    "type": "dtb",
+    "sha256": "205c7ef6ea86f81f0e3bb7f1bc042b966b3c51c68cfee44ce17b51966fba43ab",
+    "console": "R36S",
+    "boardRevision": "Y3506_V06_20260120 2604",
+    "manufacturer": "Rockchip",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS",
+    "origin": "Original SD",
+    "slug": "rk3326-r35s-linux-pGvBnbTz"
+  }
+]

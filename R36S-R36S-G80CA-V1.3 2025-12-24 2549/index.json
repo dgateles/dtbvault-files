@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-evb-lp3-v12-linux.dtb",
+    "type": "dtb",
+    "sha256": "c02b1a22f053e945e72aec4ca5c9758f4c0b5b703a1ff6ed3fd6eec26ea795d9",
+    "console": "R36S",
+    "boardRevision": "R36S-G80CA-V1.3 2025-12-24 2549",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS",
+    "origin": "Original SD",
+    "slug": "rk3326-evb-lp3-v12-linux-hxGy5Xuh"
+  }
+]
