@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rk3326-r36s-linux.dtb",
+    "type": "dtb",
+    "sha256": "7dc7fb7b79cc0dd8fffda44455e06fc0168ec838e82c8d8ffc94f0a0245a9450",
+    "console": "RK3326",
+    "boardRevision": "V12",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS",
+    "origin": "dArkOSRE_R36_trixie_03082026",
+    "slug": "rk3326-r36s-linux-ttEIvTQJ"
+  }
+]
