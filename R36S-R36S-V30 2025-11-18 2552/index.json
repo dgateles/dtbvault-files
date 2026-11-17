@@ -1,0 +1,16 @@
+[
+  {
+    "file": "mipi-panel.dtbo",
+    "type": "dtbo",
+    "sha256": "846ee139c96f0c121116234c63025b97cf3f4f947147e6761185ab965f4b77f3",
+    "console": "R36S",
+    "boardRevision": "R36S-V30 2025-11-18 2552",
+    "manufacturer": "Game Console",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ROCKNIX",
+    "origin": "Custom",
+    "slug": "mipi-panel-9rH77Jts"
+  }
+]
