@@ -1,0 +1,30 @@
+[
+  {
+    "file": "rk3326-rg351mp-linux.dtb",
+    "type": "dtb",
+    "sha256": "b2bba5d0a1a7560cf0ec69d26f9e84584403e7206fc11d4c5ec4aea35349917a",
+    "console": "RK3326",
+    "boardRevision": "R46H",
+    "manufacturer": "Hardkernel",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS",
+    "origin": "Original SD",
+    "slug": "rk3326-rg351mp-linux-0_D019TJ"
+  },
+  {
+    "file": "rk3326-r35s-linux.dtb",
+    "type": "dtb",
+    "sha256": "74145c0c137374399d6bea6249c4e36a30a87d822cd7daa1dddb93d991d73e2c",
+    "console": "RK3326",
+    "boardRevision": "R46H",
+    "manufacturer": "Hardkernel",
+    "soc": "RK3326",
+    "ram": "1GB",
+    "panelType": null,
+    "sourceSystem": "ArkOS",
+    "origin": "Original SD",
+    "slug": "rk3326-r35s-linux-gZGY_eWx"
+  }
+]
